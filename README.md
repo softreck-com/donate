@@ -25,7 +25,7 @@ Donate it or help directly if you want that project will growth... Thank You!
 
 + [Privacy Policy at Softreck - pp.softreck.dev](https://pp.softreck.dev)
 + [Softreck.Dev Foundation Code of Conduct - coc.softreck.dev](https://coc.softreck.dev)
-  [WEBSITE TERMS OF USE - tos.softreck.dev](https://tos.softreck.dev)
++ [WEBSITE TERMS OF USE - tos.softreck.dev](https://tos.softreck.dev)
 + [FAQ - faq.softreck.dev](https://faq.softreck.dev)
 + [Contributing to Softreck Projects | Softreck Code](https://cla.softreck.dev/)
 
