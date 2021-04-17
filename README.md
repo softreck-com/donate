@@ -31,4 +31,4 @@ Donate it or help directly if you want that project will growth... Thank You!
 
 ---
 
-[edit source](https://github.com/softreck/ToS/edit/main/README.md), [github project](https://github.com/softreck/tos)
+[edit source](https://github.com/softreck/donate/edit/main/README.md), [github project](https://github.com/softreck/donate)
