@@ -3,6 +3,10 @@
 + [donate.softreck.dev](https://donate.softreck.dev)
 + [donate on github](https://softreck.github.io/donate/)
 
+
+https://www.apache.org/foundation/contributing.html
+
+
 ## How to donate our projects? 
 
 Donate it or help directly if you want that project will growth... Thank You! 
